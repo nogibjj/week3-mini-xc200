@@ -1,5 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Simple Calculator
+This is a simple command line calculator written in Rust. The calculator accepts mathematical expressions in the form of a operator b, where a and b are floating-point numbers and operator is one of the following operators: +, -, *, /.
 
 ## References
 
